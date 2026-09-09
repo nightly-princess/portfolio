@@ -1,2 +1,2 @@
 # portfolio
-just a practice with svelte
+just a practice with svelte **(WIP)**
